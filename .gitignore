@@ -1,0 +1,10 @@
+node_modules/
+out/
+.cache-voice/
+.venv*/
+__pycache__/
+.env
+.env.*
+private/
+references/local/
+public/attention/narration.wav

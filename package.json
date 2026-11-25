@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "@remotion/cli": "4.0.545",
+    "gsap": "3.15.1",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "remotion": "4.0.545"
+  },
+  "name": "airflow-video-workspace",
+  "scripts": {
+    "studio": "remotion studio src/index.jsx",
+    "render": "remotion render src/index.jsx AirflowPilot out/airflow-pilot.mp4",
+    "render:overview": "remotion render src/index.jsx AirflowOverview out/airflow-overview.mp4",
+    "render:attention": "remotion render src/index.jsx AirflowAttention out/airflow-attention.mp4",
+    "prepare:media": "python3 scripts/prepare-media.py",
+    "prestudio": "npm run prepare:media",
+    "prerender:attention": "npm run prepare:media"
+  },
+  "private": true
+}

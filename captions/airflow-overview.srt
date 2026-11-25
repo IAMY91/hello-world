@@ -1,0 +1,110 @@
+1
+00:00:00,750 --> 00:00:06,000
+What helps people do meaningful work today and still have the capacity
+to improve it tomorrow?
+
+2
+00:00:06,167 --> 00:00:13,292
+AIRFLOW is a framework for designing the conditions in which people,
+collective intelligence, and organizations can flourish together.
+
+3
+00:00:14,917 --> 00:00:19,042
+Imagine a team that uses AI to draft reports faster.
+
+4
+00:00:19,208 --> 00:00:23,333
+If reviewers spend longer checking the claims, the queue may simply
+move.
+
+5
+00:00:23,500 --> 00:00:28,708
+AIRFLOW follows the whole job, including who does the work and what
+capacity it leaves for the future.
+
+6
+00:00:30,333 --> 00:00:33,417
+Flow science asks what supports deep engagement.
+
+7
+00:00:33,583 --> 00:00:37,917
+Biomimicry asks how living systems sense, adapt, and renew.
+
+8
+00:00:38,083 --> 00:00:43,208
+Organizational development asks how roles and relationships shape what
+people can do.
+
+9
+00:00:43,375 --> 00:00:48,583
+Artificial intelligence asks where technology can support human
+judgement and coordination.
+
+10
+00:00:50,208 --> 00:00:55,542
+Start with a recurring situation. Identify what two legitimate needs are
+pulling against each other.
+
+11
+00:00:55,708 --> 00:01:02,083
+Use the four perspectives to ask what could change. For example, local
+sensing in nature prompts a question:
+
+12
+00:01:02,250 --> 00:01:07,792
+Could customer signals reach the team able to act? That is a design
+hypothesis to test in context.
+
+13
+00:01:07,958 --> 00:01:13,333
+The pattern records the context, the tension, a practical move, and the
+limits of its usefulness.
+
+14
+00:01:14,958 --> 00:01:19,583
+Say the work needs concentration, while colleagues still need an urgent
+response.
+
+15
+00:01:19,750 --> 00:01:24,917
+Agree a focus window, a named backup, and a clear exception for urgent
+requests.
+
+16
+00:01:25,083 --> 00:01:31,000
+Then check the quality of the work, how urgent requests were handled,
+and what the backup person had to absorb.
+
+17
+00:01:32,625 --> 00:01:39,917
+Use the language to redesign a handover, clarify who can decide, or test
+how AI changes a workflow.
+
+18
+00:01:40,083 --> 00:01:45,125
+Choose one pattern that addresses the tension. Add another if you need
+to balance a trade-off.
+
+19
+00:01:45,292 --> 00:01:50,917
+Agree what to observe and when to review, revise, or stop. The patterns
+are working proposals.
+
+20
+00:01:52,542 --> 00:01:56,458
+The public guide organizes twenty-four patterns into six families.
+
+21
+00:01:56,625 --> 00:02:01,417
+Start with the problem you can describe. Each family gives you a
+different place to look.
+
+22
+00:02:03,042 --> 00:02:07,917
+Pick a moment when meaningful work stalled. Ask what condition would
+make the next step easier.
+
+23
+00:02:08,083 --> 00:02:13,333
+Next in the series, we explore the six families and the icons that help
+you recognize them.

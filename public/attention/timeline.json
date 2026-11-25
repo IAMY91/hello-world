@@ -1,0 +1,108 @@
+{
+  "fps": 24,
+  "duration": 1418,
+  "scenes": [
+    {
+      "id": "open",
+      "from": 0,
+      "captions": [
+        {
+          "from": 16,
+          "to": 88,
+          "text": "Every interruption asks for attention."
+        },
+        {
+          "from": 93,
+          "to": 174,
+          "text": "Some can wait. Some need an answer now."
+        }
+      ],
+      "duration": 194
+    },
+    {
+      "id": "icon",
+      "from": 194,
+      "captions": [
+        {
+          "from": 210,
+          "to": 343,
+          "text": "In AIRFLOW’s Attention icon, turquoise currents represent competing demands."
+        },
+        {
+          "from": 348,
+          "to": 423,
+          "text": "The gold point marks what needs your focus right now."
+        }
+      ],
+      "duration": 249
+    },
+    {
+      "id": "patterns",
+      "from": 443,
+      "captions": [
+        {
+          "from": 459,
+          "to": 527,
+          "text": "Four patterns help you design for attention."
+        },
+        {
+          "from": 532,
+          "to": 665,
+          "text": "Protect focus, fit the challenge, bring feedback closer, and keep useful friction."
+        }
+      ],
+      "duration": 242
+    },
+    {
+      "id": "incident",
+      "from": 685,
+      "captions": [
+        {
+          "from": 701,
+          "to": 788,
+          "text": "Imagine writing a report while urgent requests keep arriving."
+        },
+        {
+          "from": 793,
+          "to": 876,
+          "text": "Before you start, agree on a focus window with your team."
+        }
+      ],
+      "duration": 211
+    },
+    {
+      "id": "routing",
+      "from": 896,
+      "captions": [
+        {
+          "from": 912,
+          "to": 1035,
+          "text": "Let routine requests wait. Route urgent ones to a named backup."
+        },
+        {
+          "from": 1040,
+          "to": 1156,
+          "text": "Agree what qualifies as urgent and when the backup should interrupt you."
+        }
+      ],
+      "duration": 280
+    },
+    {
+      "id": "review",
+      "from": 1176,
+      "captions": [
+        {
+          "from": 1192,
+          "to": 1306,
+          "text": "Afterwards, check the report, the urgent responses, and the backup’s workload."
+        },
+        {
+          "from": 1311,
+          "to": 1398,
+          "text": "Try it once. What needs to change before you repeat it?"
+        }
+      ],
+      "duration": 242
+    }
+  ]
+}

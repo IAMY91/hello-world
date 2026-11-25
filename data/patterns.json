@@ -1,0 +1,198 @@
+{
+  "source": "AIRFLOW · 24-Pattern Field Guide v0.4",
+  "families": [
+    {
+      "name": "Direction",
+      "iconMotif": "Compass and horizon arc with a gold focal star",
+      "patterns": [
+        {
+          "name": "A Meaningful Horizon",
+          "sourceIds": [
+            "01",
+            "02"
+          ]
+        },
+        {
+          "name": "Keep the Why",
+          "sourceIds": [
+            "03"
+          ],
+          "signature": true
+        },
+        {
+          "name": "Make Room for Discovery",
+          "sourceIds": [
+            "25",
+            "26"
+          ]
+        },
+        {
+          "name": "Capacity Before Commitment",
+          "sourceIds": [
+            "22"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Attention",
+      "iconMotif": "Three turquoise currents arriving at a gold focal point",
+      "patterns": [
+        {
+          "name": "Protected Focus",
+          "sourceIds": [
+            "05"
+          ],
+          "signature": true
+        },
+        {
+          "name": "Fit the Challenge",
+          "sourceIds": [
+            "06"
+          ]
+        },
+        {
+          "name": "Feedback Within Reach",
+          "sourceIds": [
+            "07"
+          ]
+        },
+        {
+          "name": "Keep Useful Friction",
+          "sourceIds": [
+            "08"
+          ],
+          "signature": true
+        }
+      ]
+    },
+    {
+      "name": "Agency",
+      "iconMotif": "Branching pathways joined at a gold intersection",
+      "patterns": [
+        {
+          "name": "Make Local Agency Real",
+          "sourceIds": [
+            "09",
+            "10"
+          ],
+          "signature": true
+        },
+        {
+          "name": "Make Room for No",
+          "sourceIds": [
+            "04"
+          ]
+        },
+        {
+          "name": "Meet at the Boundary",
+          "sourceIds": [
+            "11"
+          ]
+        },
+        {
+          "name": "Keep Judgement in Practice",
+          "sourceIds": [
+            "12"
+          ],
+          "signature": true
+        }
+      ]
+    },
+    {
+      "name": "Collective Intelligence",
+      "iconMotif": "A triangular network with a gold central junction",
+      "patterns": [
+        {
+          "name": "Many Eyes, One Question",
+          "sourceIds": [
+            "13",
+            "14"
+          ]
+        },
+        {
+          "name": "Signals Need a Response",
+          "sourceIds": [
+            "15"
+          ]
+        },
+        {
+          "name": "A Memory That Can Change",
+          "sourceIds": [
+            "16"
+          ]
+        },
+        {
+          "name": "Build on One Another",
+          "sourceIds": [
+            "27"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Adaptation",
+      "iconMotif": "A three-node feedback loop with a gold turning segment",
+      "patterns": [
+        {
+          "name": "Small Bets, Protected Downside",
+          "sourceIds": [
+            "17"
+          ],
+          "signature": true
+        },
+        {
+          "name": "Review the Surprise",
+          "sourceIds": [
+            "18"
+          ]
+        },
+        {
+          "name": "Keep More Than One Way",
+          "sourceIds": [
+            "19"
+          ]
+        },
+        {
+          "name": "Retire What No Longer Helps",
+          "sourceIds": [
+            "20"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Renewal",
+      "iconMotif": "Three leaves with gold venation",
+      "patterns": [
+        {
+          "name": "Work in Pulses",
+          "sourceIds": [
+            "21"
+          ]
+        },
+        {
+          "name": "Return the Gains",
+          "sourceIds": [
+            "23"
+          ],
+          "signature": true
+        },
+        {
+          "name": "Count the Wider Cost",
+          "sourceIds": [
+            "24"
+          ],
+          "signature": true
+        },
+        {
+          "name": "Practise Repair",
+          "sourceIds": [
+            "28"
+          ],
+          "restricted": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+1
+00:00:00,667 --> 00:00:03,667
+Every interruption asks for attention.
+
+2
+00:00:03,875 --> 00:00:07,250
+Some can wait. Some need an answer now.
+
+3
+00:00:08,750 --> 00:00:14,292
+In AIRFLOW’s Attention icon, turquoise currents represent competing demands.
+
+4
+00:00:14,500 --> 00:00:17,625
+The gold point marks what needs your focus right now.
+
+5
+00:00:19,125 --> 00:00:21,958
+Four patterns help you design for attention.
+
+6
+00:00:22,167 --> 00:00:27,708
+Protect focus, fit the challenge, bring feedback closer, and keep useful friction.
+
+7
+00:00:29,208 --> 00:00:32,833
+Imagine writing a report while urgent requests keep arriving.
+
+8
+00:00:33,042 --> 00:00:36,500
+Before you start, agree on a focus window with your team.
+
+9
+00:00:38,000 --> 00:00:43,125
+Let routine requests wait. Route urgent ones to a named backup.
+
+10
+00:00:43,333 --> 00:00:48,167
+Agree what qualifies as urgent and when the backup should interrupt you.
+
+11
+00:00:49,667 --> 00:00:54,417
+Afterwards, check the report, the urgent responses, and the backup’s workload.
+
+12
+00:00:54,625 --> 00:00:58,250
+Try it once. What needs to change before you repeat it?

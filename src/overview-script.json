@@ -1,0 +1,81 @@
+[
+  {
+    "id": "purpose",
+    "label": "What is AIRFLOW?",
+    "title": ["Design the", "conditions for", "better work."],
+    "cues": [
+      "What helps people do meaningful work today and still have the capacity to improve it tomorrow?",
+      "AIRFLOW is a framework for designing the conditions in which people, collective intelligence, and organizations can flourish together."
+    ]
+  },
+  {
+    "id": "problem",
+    "label": "Why it matters",
+    "title": ["Better tools.", "Same bottleneck?"],
+    "cues": [
+      "Imagine a team that uses AI to draft reports faster.",
+      "If reviewers spend longer checking the claims, the queue may simply move.",
+      "AIRFLOW follows the whole job, including who does the work and what capacity it leaves for the future."
+    ]
+  },
+  {
+    "id": "lenses",
+    "label": "Where the language comes from",
+    "title": ["Four perspectives, one design question."],
+    "cues": [
+      "Flow science asks what supports deep engagement.",
+      "Biomimicry asks how living systems sense, adapt, and renew.",
+      "Organizational development asks how roles and relationships shape what people can do.",
+      "Artificial intelligence asks where technology can support human judgement and coordination."
+    ]
+  },
+  {
+    "id": "derive",
+    "label": "How a pattern is derived",
+    "title": ["From a recurring tension", "to a move you can test."],
+    "cues": [
+      "Start with a recurring situation. Identify what two legitimate needs are pulling against each other.",
+      "Use the four perspectives to ask what could change. For example, local sensing in nature prompts a question:",
+      "Could customer signals reach the team able to act? That is a design hypothesis to test in context.",
+      "The pattern records the context, the tension, a practical move, and the limits of its usefulness."
+    ]
+  },
+  {
+    "id": "example",
+    "label": "A pattern in practice",
+    "title": ["Protected Focus"],
+    "cues": [
+      "Say the work needs concentration, while colleagues still need an urgent response.",
+      "Agree a focus window, a named backup, and a clear exception for urgent requests.",
+      "Then check the quality of the work, how urgent requests were handled, and what the backup person had to absorb."
+    ]
+  },
+  {
+    "id": "apply",
+    "label": "How to use the language",
+    "title": ["Start with one", "real incident."],
+    "cues": [
+      "Use the language to redesign a handover, clarify who can decide, or test how AI changes a workflow.",
+      "Choose one pattern that addresses the tension. Add another if you need to balance a trade-off.",
+      "Agree what to observe and when to review, revise, or stop. The patterns are working proposals."
+    ]
+  },
+  {
+    "id": "families",
+    "label": "Explore the language",
+    "title": ["Six families. Twenty-four patterns."],
+    "cues": [
+      "The public guide organizes twenty-four patterns into six families.",
+      "Start with the problem you can describe. Each family gives you a different place to look."
+    ]
+  },
+  {
+    "id": "close",
+    "label": "AIRFLOW",
+    "title": ["What would make", "better work possible?"],
+    "cues": [
+      "Pick a moment when meaningful work stalled. Ask what condition would make the next step easier.",
+      "Next in the series, we explore the six families and the icons that help you recognize them."
+    ]
+  }
+]

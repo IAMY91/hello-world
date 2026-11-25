@@ -1,0 +1,8 @@
+[
+  {"id":"open","cues":["Every interruption asks for attention.","Some can wait. Some need an answer now."]},
+  {"id":"icon","cues":["In AIRFLOW’s Attention icon, turquoise currents represent competing demands.","The gold point marks what needs your focus right now."]},
+  {"id":"patterns","cues":["Four patterns help you design for attention.","Protect focus, fit the challenge, bring feedback closer, and keep useful friction."]},
+  {"id":"incident","cues":["Imagine writing a report while urgent requests keep arriving.","Before you start, agree on a focus window with your team."]},
+  {"id":"routing","cues":["Let routine requests wait. Route urgent ones to a named backup.","Agree what qualifies as urgent and when the backup should interrupt you."]},
+  {"id":"review","cues":["Afterwards, check the report, the urgent responses, and the backup’s workload.","Try it once. What needs to change before you repeat it?"]}
+]

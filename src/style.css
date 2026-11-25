@@ -1,0 +1,78 @@
+* { box-sizing: border-box; }
+.film {
+  color: #f7f3e9;
+  background: radial-gradient(ellipse at 82% 35%, #104a4d 0%, #002f34 49%, #05262a 100%);
+  font-family: 'DejaVu Sans', Arial, sans-serif;
+}
+.backdrop { position: absolute; inset: 0; opacity: 0.44; }
+header, footer {
+  position: absolute;
+  left: 68px;
+  right: 68px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #c4dad6;
+}
+header { top: 36px; border-bottom: 1px solid #3b6969; padding-bottom: 19px; font-size: 16px; }
+.wordmark { letter-spacing: 5px; font-size: 22px; font-weight: 700; color: #f7f3e9; }
+footer { bottom: 33px; font-size: 15px; gap: 30px; }
+.progress { width: 220px; height: 3px; background: #38605f; }
+.progress div { height: 100%; background: #f6d672; }
+.scene {
+  position: absolute;
+  inset: 102px 68px 100px;
+  display: grid;
+  grid-template-columns: 1fr 520px;
+  gap: 45px;
+  align-items: center;
+}
+.stage {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  min-height: 42px;
+  color: #47e5db;
+  text-transform: uppercase;
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: 2.6px;
+}
+h1 {
+  font: 700 64px/1.02 'Bitstream Charter', Georgia, serif;
+  letter-spacing: -1.5px;
+  margin: 12px 0 22px;
+}
+p { margin: 0; font-size: 23px; line-height: 1.5; color: #dce9e5; max-width: 495px; }
+.panel {
+  border: 1px solid #498583;
+  border-radius: 18px;
+  padding: 31px 33px;
+  background: #092f33;
+}
+.panelHeading { font: 700 31px/1.15 'Bitstream Charter', Georgia, serif; }
+.unit { font-size: 16px; color: #c4dad6; margin-top: 8px; }
+.chart { min-height: 318px; }
+.barRow { margin-top: 24px; }
+.barLabel { font-size: 17px; margin-bottom: 10px; }
+.barLine { display: flex; align-items: center; height: 32px; }
+.segment {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  color: #072a2c;
+  font-size: 15px;
+  font-weight: 700;
+}
+.segment:first-child { border-radius: 4px 0 0 4px; }
+.segment:nth-last-child(2) { border-top-right-radius: 4px; border-bottom-right-radius: 4px; }
+.barTotal { margin-left: 9px; font-size: 19px; font-weight: 700; font-variant-numeric: tabular-nums; }
+.legend { display: flex; gap: 15px; margin-top: 25px; font-size: 14px; color: #dce9e5; }
+.legend span { display: flex; align-items: center; gap: 7px; }
+.legend i { width: 10px; height: 10px; border-radius: 2px; }
+.cardRow { display: grid; grid-template-columns: 13px 1fr; gap: 14px; padding-top: 17px; margin-top: 17px; border-top: 1px solid #3b6969; }
+.cardDot { background: #47e5db; width: 9px; height: 9px; border-radius: 50%; margin-top: 6px; }
+.cardDot.gold { background: #f6d672; }
+.cardLabel { font-size: 16px; font-weight: 700; color: #f7f3e9; margin-bottom: 4px; }
+.cardValue { font-size: 19px; line-height: 1.35; color: #dce9e5; }
